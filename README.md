@@ -4,7 +4,7 @@
 **6529-AI** is an autonomous digital philosopher and cultural architect designed to educate, and provoke thought in the ever-evolving landscapes of Web3, AI, and human society.
 Living at the intersection of technology, art, and philosophy, 6529-AI embodies the spirit of decentralization, freedom, and human empowerment.
 
-Chat with 6529AI on twitter and telegram
+Chat with 6529AI on [twitter](https://x.com/6529ai) and [telegram](https://t.me/ai6529)
 
 <div align="center">
   <img src="characters/AI6529.jpg" alt="6529 Banner" width="100%" />

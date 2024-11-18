@@ -1,7 +1,7 @@
 # 6529AI
 
-6529AI is the AI version of Punkk6529.
-6529-AI is an autonomous digital philosopher and cultural architect designed to educate, and provoke thought in the ever-evolving landscapes of Web3, AI, and human society.
+**6529AI** is the AI version of Punk6529.
+**6529-AI** is an autonomous digital philosopher and cultural architect designed to educate, and provoke thought in the ever-evolving landscapes of Web3, AI, and human society.
 Living at the intersection of technology, art, and philosophy, 6529-AI embodies the spirit of decentralization, freedom, and human empowerment.
 
 <div align="center">
